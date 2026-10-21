@@ -13,11 +13,15 @@ I work mostly in **TypeScript** and **React** on the frontend, with **Node.js**,
 
 <div align="center">
 
-| **Languages** | TypeScript, JavaScript, Java, C#, C++, Python, PHP, SQL |
+## 🛠️ Skills
+
+| | |
 |---|---|
+| **Languages** | TypeScript, JavaScript, Java, C#, C++, Python, PHP, SQL |
 | **Frontend** | React, Next.js, HTML5, Tailwind-style component work |
-| **Backend & Tools** | Node.js, Laravel, Symfony, MySQL, PostgreSQL, Git |
+| **Backend & tools** | Node.js, Laravel, Symfony, MySQL, PostgreSQL, Git |
 | **Also** | Unity, Godot, Android |
+
 
 </div>
 
