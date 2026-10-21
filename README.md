@@ -30,7 +30,7 @@ I work mostly in **TypeScript** and **React** on the frontend, with **Node.js**,
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,java,cs,cpp,py,php" alt="Languages" /><br>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,html,tailwind,nodejs,laravel,symfony,postgres" alt="Frameworks and databases" /><br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=android,unity,godot,dotnet,git,vscode,arduino" alt="Tools and platforms" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=android,unity,godot,dotnet,vscode,arduino" alt="Tools and platforms" />
 </p>
 
 ---
