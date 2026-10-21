@@ -20,6 +20,14 @@ I work mostly in **TypeScript** and **React** on the frontend, with **Node.js**,
 | **Backend & tools** | Node.js, Laravel, Symfony, MySQL, PostgreSQL, Git |
 | **Also** | Unity, Godot, Android |
 
+<p align="center"><b>Languages • Frameworks • Tools • Platforms</b></p>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,java,cs,cpp,py,php" alt="Languages" /><br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,html,tailwind,bootstrap,flutter,nodejs,laravel,symfony,firebase,mysql,postgres,mongodb" alt="Frameworks and databases" /><br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=android,unity,godot,dotnet,linux,git,vscode,figma,blender,slack,arduino" alt="Tools and platforms" />
+</p>
+
 ---
 
 ## 📌 Featured projects
