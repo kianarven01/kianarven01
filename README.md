@@ -1,6 +1,6 @@
 # Hi, I'm Kian Arven Valencia 👋
 
-### Web developer from the Philippines — I build things and ship them.
+### Web developer from the Philippines
 
 [![Profile views](https://komarev.com/ghpvc/?username=kianarven01&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/kianarven01)
 [![Followers](https://img.shields.io/github/followers/kianarven01?style=flat&color=0e75b6)](https://github.com/kianarven01?tab=followers)
