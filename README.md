@@ -11,21 +11,22 @@ I work mostly in **TypeScript** and **React** on the frontend, with **Node.js**,
 
 ---
 
-## 🛠️ Skills
+<div align="center">
 
-| | |
-|---|---|
 | **Languages** | TypeScript, JavaScript, Java, C#, C++, Python, PHP, SQL |
+|---|---|
 | **Frontend** | React, Next.js, HTML5, Tailwind-style component work |
-| **Backend & tools** | Node.js, Laravel, Symfony, MySQL, PostgreSQL, Git |
+| **Backend & Tools** | Node.js, Laravel, Symfony, MySQL, PostgreSQL, Git |
 | **Also** | Unity, Godot, Android |
+
+</div>
 
 <p align="center"><b>Languages • Frameworks • Tools • Platforms</b></p>
 
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,java,cs,cpp,py,php" alt="Languages" /><br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,html,tailwind,bootstrap,flutter,nodejs,laravel,symfony,firebase,mysql,postgres,mongodb" alt="Frameworks and databases" /><br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=android,unity,godot,dotnet,linux,git,vscode,figma,blender,slack,arduino" alt="Tools and platforms" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,html,tailwind,nodejs,laravel,symfony,postgres" alt="Frameworks and databases" /><br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=android,unity,godot,dotnet,git,vscode,arduino" alt="Tools and platforms" />
 </p>
 
 ---
