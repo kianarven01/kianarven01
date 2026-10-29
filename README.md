@@ -46,7 +46,6 @@ I work mostly in **TypeScript** and **React** on the frontend, with **Node.js**,
 
 ## 📊 GitHub stats
 
-![Kian's stats](https://github-readme-stats.vercel.app/api?username=kianarven01&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&ring_color=0e75b6)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kianarven01&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6)
 
