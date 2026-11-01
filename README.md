@@ -1,11 +1,11 @@
-# Hi, I'm Kian Arven P. Valencia 👋
+# Hi, I'm Kian Arven Valencia 👋
 
 ### Web developer from the Philippines
 
 [![Profile views](https://komarev.com/ghpvc/?username=kianarven01&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/kianarven01)
 [![Followers](https://img.shields.io/github/followers/kianarven01?style=flat&color=0e75b6)](https://github.com/kianarven01?tab=followers)
 
-I work mostly in **TypeScript** and **React** on the frontend, with **Node.js**, **Java**, and **C#** behind it. I care about actually finishing things — my latest site alone has 150+ commits.
+I work mostly in **TypeScript** and **React** on the frontend, with **Node.js**, **Java**, and **C#** as my backend choices. I care about actually finishing things — my latest site alone has 150+ commits.
 
 **🔭 Currently building:** [Daeframe website](https://github.com/05-14th/daeframe_web) — a React + Vite marketing site with route-level prerendering for SEO and a Supabase-backed request flow.
 
