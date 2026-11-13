@@ -1,4 +1,4 @@
-# Hi, I'm Kian Arven P. Valencia 👋
+# Hi, I'm Kian Arven Valencia 👋
 
 ### Web developer from the Philippines
 
