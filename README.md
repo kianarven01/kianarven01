@@ -77,7 +77,7 @@ Have an idea, a question, or just want to say hi? I'd love to connect.
 
 Keep learning. Keep building. Bloom at your own pace.
 
-<img width="100%" src="./sakura.svg" alt="Falling sakura petals over a moonlit lake" />
+<img width="50%" src="./sakura.svg" alt="Falling sakura petals over a moonlit lake" />
 
 </div>
 
