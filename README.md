@@ -1,7 +1,7 @@
 <!-- Place sakura.svg beside README.md. Download both from the preview. -->
 <div align="center">
 
-<img width="100%" src="./sakura.svg" alt="Moonlit mountains and pink cherry blossoms" />
+<img width="100%" src="./sakura-header.gif" alt="Animated moonlit mountains with falling cherry-blossom petals" />
 
 # Hi, I'm Kian Arven P. Valencia
 
@@ -76,6 +76,8 @@ Have an idea, a question, or just want to say hi? I'd love to connect.
 <!-- Add your real project and contact links before publishing. -->
 
 Keep learning. Keep building. Bloom at your own pace.
+
+<img width="100%" src="./sakura.svg" alt="Falling sakura petals over a moonlit lake" />
 
 </div>
 
