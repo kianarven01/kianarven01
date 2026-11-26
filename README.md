@@ -1,7 +1,8 @@
 <!-- Place sakura.svg beside README.md. Download both from the preview. -->
 <div align="center">
 
-<img width="100%" src="./sakura-header.gif" alt="Animated moonlit mountains with falling cherry-blossom petals" />
+<img width="100%"
+ src="./sakura-header.gif" alt="Animated moonlit mountains with falling cherry-blossom petals" />
 
 # Hi, I'm Kian Arven P. Valencia
 
@@ -15,8 +16,6 @@ Building thoughtful things for the web, one commit at a time.
 </div>
 
 ## A little about me
-
-<img align="right" width="260" src="#Gifhere" alt="An animated coding workspace" />
 
 I'm a web developer from the Philippines who enjoys turning ideas into useful, well-crafted experiences.
 
@@ -79,8 +78,7 @@ Keep learning. Keep building. Bloom at your own pace.
 
 <img
   width="100%"
-  height="150"
-  src="./sakura.svg"
+  src="./sakura-footer.gif"
   alt="Falling sakura petals over a moonlit lake"
 />
 
