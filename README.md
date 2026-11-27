@@ -25,25 +25,38 @@ I'm a web developer from the Philippines who enjoys turning ideas into useful, w
 
 <br clear="both" />
 
-## My developer toolkit
+---
 
-**Languages**  
-TypeScript · JavaScript · Java · C# · Python · PHP · SQL
+<h3 align="center">My Stats</h3>
+<br>
 
-**Frontend**  
-React · Next.js · HTML5 · CSS3 · Tailwind CSS
-
-**Backend & tools**  
-Node.js · Laravel · Symfony · MySQL · PostgreSQL · Git
-
-**Also exploring**  
-Unity · Godot · Android
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,nodejs,python,php,java,cs,laravel,git,postgres,unity,godot&perline=9&theme=dark" alt="My development tools" />
+<div align="center" width="100%">
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/kianarven01/github-readme-activity-graph">
+          <img
+            src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=kianarven01&theme=default"
+            width="100%"
+          />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://git.io/streak-stats">
+          <img
+            src="https://streak-stats.demolab.com/?user=kianarven01&theme=omni"
+            width="100%"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-## Things I've been building
+<br/>
+
+<h3 align="center">Current Projects</h3>
+<br>
 
 <table>
 <tr>
@@ -72,9 +85,20 @@ Unity · Godot · Android
 </table>
 
 <br>
-<br>
 
 <div align="center">
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,java,cs,cpp,py,php"/><br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,html,tailwind,nodejs,laravel,symfony,postgres"/><br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=android,unity,godot,dotnet,vscode,arduino,robloxstudio" />
+</p>
+
+</div>
+
+<div align="center">
+
+---
 
 <i>“Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.” </i>
 
