@@ -1,10 +1,9 @@
-<!-- Place sakura.svg beside README.md. Download both from the preview. -->
 <div align="center">
 
 <img width="100%"
  src="./sakura-header.gif" alt="Animated moonlit mountains with falling cherry-blossom petals" />
 
-# Hi, I'm Kian Arven P. Valencia
+# Konnichiwa, Kian desu (^\_~)
 
 ### Web developer from the Philippines
 
