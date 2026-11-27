@@ -3,7 +3,8 @@
 <img width="100%"
  src="./sakura-header.gif" alt="Animated moonlit mountains with falling cherry-blossom petals" />
 
-# Konnichiwa, Kian desu (^\_~)
+<img width="100%"
+ src="./introduction.svg" alt="Animated moonlit mountains with falling cherry-blossom petals" />
 
 ### Web developer from the Philippines
 
@@ -14,8 +15,9 @@ Building thoughtful things for the web, one commit at a time.
 
 </div>
 
-## A little about me
-
+<br>
+<h3 align="center">Myself</h3>
+<br>
 I'm a web developer from the Philippines who enjoys turning ideas into useful, well-crafted experiences.
 
 - Working with **TypeScript & React** up front, and **Node.js, Java & C#** behind the scenes.
@@ -33,18 +35,29 @@ I'm a web developer from the Philippines who enjoys turning ideas into useful, w
 <div align="center" width="100%">
   <table width="100%" cellpadding="0" cellspacing="0" border="0">
     <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/kianarven01/github-readme-activity-graph">
+      <!-- Productive Time -->
+      <td width="33.33%" align="center">
+        <a href="https://github.com/kianarven01">
           <img
-            src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=kianarven01&theme=default"
+            src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kianarven01&theme=omni&timeZone=Asia%2FManila"
             width="100%"
           />
         </a>
       </td>
-      <td width="50%" align="center">
+      <!-- Streak Stats -->
+      <td width="33.33%" align="center">
         <a href="https://git.io/streak-stats">
           <img
             src="https://streak-stats.demolab.com/?user=kianarven01&theme=omni"
+            width="100%"
+          />
+        </a>
+      </td>
+      <!-- Most Used Languages -->
+      <td width="33.33%" align="center">
+        <a href="https://github.com/kianarven01">
+          <img
+            src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kianarven01&theme=omni"
             width="100%"
           />
         </a>
