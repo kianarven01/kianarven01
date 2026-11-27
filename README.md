@@ -71,17 +71,14 @@ Unity · Godot · Android
 </tr>
 </table>
 
----
+<br>
+<br>
 
 <div align="center">
 
-### Let's make something good.
+<i>“Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.” </i>
 
-Have an idea, a question, or just want to say hi? I'd love to connect.
-
-<!-- Add your real project and contact links before publishing. -->
-
-Keep learning. Keep building. Bloom at your own pace.
+<b><i>-Edsger W. Dijkstra</b></i>
 
 <img
   width="100%"
@@ -90,6 +87,3 @@ Keep learning. Keep building. Bloom at your own pace.
 />
 
 </div>
-
-<!-- GitHub controls the page background using the reader's theme.
-The sakura banner has its own dark background in every theme. -->
