@@ -6,23 +6,32 @@
 <img width="100%"
  src="./introduction.svg" alt="Animated moonlit mountains with falling cherry-blossom petals" />
 
-### Web developer from the Philippines
-
-Building thoughtful things for the web, one commit at a time.
-
-![Open to collaborating](https://img.shields.io/badge/Open_to_collaborating-f0b2cb?style=flat&labelColor=201b29)
-![Always learning](https://img.shields.io/badge/Always_learning-d1b7ee?style=flat&labelColor=201b29)
-
 </div>
 
-<br>
-<h3 align="center">Myself</h3>
-
+<p align="center">
 I'm a developer who enjoys building things for the web, mobile, and games.
-
+</p>
+<br>
+<p align="center">
 Outside of coding, I'm a musician, gamer, and aspiring Precision Agriculture Specialist. I'm also learning CSG modeling and environment art to bring more creative ideas to life.
+</p>
 
-<br clear="both" />
+<br>
+<br>
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Coding-d1b7ee?style=flat&labelColor=201b29&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Music-f0b2cb?style=flat&labelColor=201b29&logo=applemusic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gaming-b2d8f0?style=flat&labelColor=201b29&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Developing-c3e6c5?style=flat&labelColor=201b29&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Designing-f5d6a5?style=flat&labelColor=201b29&logo=robloxstudio&logoColor=white" />
+</p>
+
+<br>
+<br>
+<p align = "center"><i><b>Soli Deo Gloria</p></i></b>
+<br>
 
 ---
 
