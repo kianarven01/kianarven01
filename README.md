@@ -17,13 +17,10 @@ Building thoughtful things for the web, one commit at a time.
 
 <br>
 <h3 align="center">Myself</h3>
-<br>
-I'm a web developer from the Philippines who enjoys turning ideas into useful, well-crafted experiences.
 
-- Working with **TypeScript & React** up front, and **Node.js, Java & C#** behind the scenes.
-- Currently building **Daeframe**, a personal website for marketing purposes and portfolio.
-- Exploring new tools, game development, and the little details that make a big difference.
-- Open to collaborating on thoughtful projects.
+I'm a developer who enjoys building things for the web, mobile, and games.
+
+Outside of coding, I'm a musician, gamer, and aspiring Precision Agriculture Specialist. I'm also learning CSG modeling and environment art to bring more creative ideas to life.
 
 <br clear="both" />
 
