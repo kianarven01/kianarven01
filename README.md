@@ -19,7 +19,7 @@ Building thoughtful things for the web, one commit at a time.
 I'm a web developer from the Philippines who enjoys turning ideas into useful, well-crafted experiences.
 
 - Working with **TypeScript & React** up front, and **Node.js, Java & C#** behind the scenes.
-- Currently building **Darlene**, a freelancing platform with task management, SEO, and a Supabase-backed workflow.
+- Currently building **Daeframe**, a personal website for marketing purposes and portfolio.
 - Exploring new tools, game development, and the little details that make a big difference.
 - Open to collaborating on thoughtful projects.
 
@@ -45,23 +45,31 @@ Unity · Godot · Android
 
 ## Things I've been building
 
-### daeframe_web
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>Daeframe</h3>
 
-Freelancing made a little more seamless. Task management, payments, and a real-time dashboard.
+<p>Showcasing ideas built to stand out.</p>
+<p>Our official marketing website featuring our portfolio, past projects, and creative work</p>
+<code>ReactJS</code> <code>Vite</code> <code>Supabase</code>
+</td>
 
-`Next.js` `TypeScript` `Supabase`
+<td width="33%" valign="top">
+<h3>Project Habit</h3>
+<p>A disciplined day is a productive day.</p>
+<p>A mobile app for building consistent daily routines and tracking habits.</p>
+<code>ReactNative</code> <code>TypeScript</code> <code>Expo</code>
+</td>
 
-### website.trufit
-
-A small corner of the internet, made by me. A personal space for my work, ideas, and experiments.
-
-`React` `JavaScript` `CSS`
-
-### BioHome
-
-Less paperwork. More possibilities. An enrollment system built with Visual Basic .NET.
-
-`Visual Basic` `.NET` `SQL`
+<td width="33%" valign="top">
+<h3>BioHome</h3>
+<p>Making biology fun, one question at a time.</p>
+<p>An interactive mobile quiz game designed to test and improve your science knowledge.</p>
+<code>Godot</code> <code>C#</code> <code>.NET</code>
+</td>
+</tr>
+</table>
 
 ---
 
